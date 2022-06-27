@@ -5,7 +5,7 @@ Télécharger KingFisher https://github.com/onevcat/Kingfisher.git
 
 L'objectif de ce projet Disney+, architecture CleanCode, MVVM, Swift, SwiftUI, Json.
 
-
+Chapitre 1
 J'ai créé des component :
 
 CellView :
@@ -35,5 +35,11 @@ PosterMovieView :
 MovieDetailHeaderView :
 
 <img width="425" alt="Capture d’écran 2022-06-16 à 11 48 16" src="https://user-images.githubusercontent.com/87533227/174043658-9ee4a770-d207-43db-9827-8441df7abcea.png">
+
+
+Chapitre 2 
+Création des Models et des ViewModels + Data + Repository :
+
+<img width="324" alt="Capture d’écran 2022-06-27 à 14 32 56" src="https://user-images.githubusercontent.com/87533227/175942672-84c950dc-d3bd-46d1-8467-b6d35106689e.png">
 
 
